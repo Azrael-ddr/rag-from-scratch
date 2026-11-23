@@ -1,0 +1,7 @@
+# 密钥（千万别提交到 GitHub）
+config.py
+
+# Python
+.venv/
+__pycache__/
+*.pyc
